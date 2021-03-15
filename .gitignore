@@ -36,7 +36,6 @@ ExportedObj/
 *.user
 *.userprefs
 *.pidb
-*.booproj
 *.svd
 *.pdb
 *.mdb
